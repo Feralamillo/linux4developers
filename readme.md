@@ -34,3 +34,4 @@ The aim of this repo is to recopilate the most important packages for ubuntu.
 
 - Telegram
 - Slack
+- Franz : https://meetfranz.com/
