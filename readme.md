@@ -13,7 +13,7 @@ The aim of this repo is to recopilate the most important packages for ubuntu.
 
 ## Git
 
-- Git: sudo apt.get install Git
+- Git: sudo apt.get install git
 - Gitkraken
 - Gitsmart
 
