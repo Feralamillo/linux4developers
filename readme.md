@@ -13,13 +13,24 @@ The aim of this repo is to recopilate the most important packages for ubuntu.
 
 ## Git
 
-- Git: sudo apt-get install git
+- Git: 
+    '''
+    sudo apt-get install git
+    '''
 - Gitkraken
+
 - Gitsmart
+
 
 ## Images
 
 - GIMP
+    '''
+    sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+    sudo apt update
+    sudo apt install gimp
+    sudo apt install gimp-plugin-registry gimp-gmic
+    '''
 
 ## Explorers
 
