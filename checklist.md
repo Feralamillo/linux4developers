@@ -2,7 +2,7 @@
 
 1. Linux (ubuntu, mint or other debian distribution)
 2. Google Chrome
-3. [Git] (#Git)
+3. [Git](#Git)
 4. Code
 5. Gimp
 6. NVM
@@ -23,4 +23,5 @@
 ```
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+git config --global push.default simple
 ```
