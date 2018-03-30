@@ -1,19 +1,19 @@
 # Start checklist
 
-1. Linux (ubuntu, mint or other debian distribution)
-2. [Google Chrome](#google-chrome)
-3. [Git](#git)
-4. [Code](#code)
-5. [Gimp](#gimp)
-6. [NVM](#nvm)
-7. [Mongo](#mongo)
+1.  Linux (ubuntu, mint or other debian distribution)
+2.  [Google Chrome](#google-chrome)
+3.  [Git](#git)
+4.  [Code](#code)
+5.  [Gimp](#gimp)
+6.  [NVM](#nvm)
+7.  [Mongo](#mongo)
 
 # Google Chrome
 
 ## Installation
 
-1. Download the latest version [from website](https://www.google.es/chrome/browser/desktop/index.html)
-2. Install from package manager
+1.  Download the latest version [from website](https://www.google.es/chrome/browser/desktop/index.html)
+2.  Install from package manager
 
 # Git
 
@@ -90,11 +90,11 @@ Pluggins to add:
 
 ## Installation
 
-1. Install NVM `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash`
-2. After installation close the terminal and open again
-3. Verify installation with `command -v nvm`
-4. Install the latest version of node `nvm install node`
-5. Install nodemon global `npm install -g nodemon`
+1.  Install NVM `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash`
+2.  After installation close the terminal and open again
+3.  Verify installation with `command -v nvm`
+4.  Install the latest version of node `nvm install node`
+5.  Install nodemon global `npm install -g nodemon`
 
 For more info visit the [github repo](https://github.com/creationix/nvm)
 
@@ -102,7 +102,7 @@ For more info visit the [github repo](https://github.com/creationix/nvm)
 
 ## Installation
 
-1. Download the latest version of Mongo DB from [the website](https://www.mongodb.com/download-center#community)
+1.  Download the latest version of Mongo DB from [the website](https://www.mongodb.com/download-center#community)
 2.  Extract MongoDB - change the name to mongodb (usually comes with a long name after extracting)
 3.  Get inside the folder. You will see a folder called bin and files. At this level, create a folder called data and inside another one called db (data/db).
 4.  From the folder /mongodb execute `$ ./bin/mongod --dbpath ./data/db --directoryperdb`
