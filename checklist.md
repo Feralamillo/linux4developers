@@ -1,12 +1,12 @@
 # Start checklist
 
 1. Linux (ubuntu, mint or other debian distribution)
-2. [Google Chrome](#GoogleChrome)
-3. [Git](#Git)
-4. [Code](#Code)
-5. [Gimp](#Gimp)
-6. [NVM](#NVM)
-7. [Mongo](#Mongo)
+2. [Google Chrome](#google-chrome)
+3. [Git](#git)
+4. [Code](#code)
+5. [Gimp](#gimp)
+6. [NVM](#nvm)
+7. [Mongo](#mongo)
 
 # Google Chrome
 
