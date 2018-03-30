@@ -46,29 +46,33 @@ Pluggins to add:
 ## Settings
 
 ```javascript
-// Place your settings in this file to overwrite the default settings
 {
-  "vsicons.projectDetection.disableDetect": true,
-  "workbench.colorTheme": "Cobalt2",
-  "workbench.iconTheme": "vscode-icons",
-  "vsicons.dontShowNewVersionMessage": true,
-  "window.zoomLevel": 1,
-  "path-intellisense.autoSlashAfterDirectory": true,
-  "editor.wordWrap": "on",
-  "editor.fontSize": 14,
-  "editor.lineHeight": 25,
-  "editor.letterSpacing": 0.5,
-  "files.trimTrailingWhitespace": true,
-  "editor.fontWeight": "400",
-  "prettier.eslintIntegration": true,
-  "editor.cursorStyle": "underline-thin",
-  "editor.cursorBlinking": "solid",
-  "editor.renderWhitespace": "all",
-  "workbench.startupEditor": "newUntitledFile",
-  "[javascript]": {
-    "editor.tabSize": 2
-  },
-  "editor.formatOnSave": true
+    "files.autoSave": "onFocusChange",
+    "vsicons.projectDetection.disableDetect": true,
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.tabSize": 4,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 0.3,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 12,
+    // "editor.fontFamily": "Fira Code",
+    // "editor.fontLigatures": true,
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.3,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "400",
+    "prettier.eslintIntegration": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "blink",
+    "editor.renderWhitespace": "all",
+    "workbench.startupEditor": "newUntitledFile",
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "editor.formatOnSave": true
 }
 ```
 
