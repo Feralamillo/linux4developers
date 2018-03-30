@@ -35,6 +35,7 @@
 
 Pluggins to add:
 
+* Wakatime
 * vscode-icons
 * Cobalt2
 * Prettier
