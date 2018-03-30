@@ -8,6 +8,13 @@
 6. [NVM](#NVM)
 7. [Mongo](#Mongo)
 
+# Google Chrome
+
+## Installation
+
+1. Download the latest version [from website](https://www.google.es/chrome/browser/desktop/index.html)
+2. Install from package manager
+
 # Git
 
 ## Installation
@@ -19,6 +26,18 @@
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
     git config --global push.default simple
+
+# Code
+
+## Installation
+
+## Configuration
+
+Pluggins to add:
+
+* npm intellisense
+* nodejs
+* path intellisense
 
 # Gimp
 
@@ -37,4 +56,30 @@
 2. After installation close the terminal and open again
 3. Verify installation with `command -v nvm`
 4. Install the latest version of node `nvm install node`
-5. For more info visit the [github repo](https://github.com/creationix/nvm)
+5. Install nodemon global `npm install -g nodemon`
+
+For more info visit the [github repo](https://github.com/creationix/nvm)
+
+# Mongo
+
+## Installation
+
+1. Download the latest version of Mongo DB from [the website](https://www.mongodb.com/download-center#community)
+2.  Extract MongoDB - change the name to mongodb (usually comes with a long name after extracting)
+3.  Get inside the folder. You will see a folder called bin and files. At this level, create a folder called data and inside another one called db (data/db).
+4.  From the folder /mongodb execute `$ ./bin/mongod --dbpath ./data/db --directoryperdb`
+5.  Posible problems that appear: error code 38: https://stackoverflow.com/questions/6478113/unable-to-start-mongodb-local-server
+
+## Shortcut
+
+After installation, to start easily mongodb it's good to create a sh shortcut in the same folder where it's mongo:
+
+1.  `$ nano start.sh`
+2.  Paste `./bin/mongod --dbpath ./data/db --directoryperdb`
+3.  Execute `$chmod +x start.sh`
+4.  Form this moment you can just use the command to launch mongodb:
+    `$./start.sh`
+
+## Robo3T
+
+Download the latest version of Robo 3T from [the website](https://robomongo.org/download)
