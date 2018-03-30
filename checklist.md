@@ -1,7 +1,7 @@
 # Start checklist
 
 1. Linux (ubuntu, mint or other debian distribution)
-2. [Google Chrome](#Google Chrome)
+2. [Google Chrome](#GoogleChrome)
 3. [Git](#Git)
 4. [Code](#Code)
 5. [Gimp](#Gimp)
