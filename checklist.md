@@ -47,7 +47,7 @@ Pluggins to add:
 * Editor Config
 * Eslint
 * Gitlens
-* React Frood Truck
+* React Food Truck
 * vscode-styled-components
 
 ## Settings
@@ -58,6 +58,7 @@ Pluggins to add:
     "vsicons.projectDetection.disableDetect": true,
     "workbench.colorTheme": "Cobalt2",
     "workbench.iconTheme": "vscode-icons",
+    "prettier.eslintIntegration":true,
     "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.tabSize": 4,
     "vsicons.dontShowNewVersionMessage": true,
