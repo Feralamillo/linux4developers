@@ -41,8 +41,14 @@ Pluggins to add:
 * Prettier
 * Emmet
 * npm intellisense
-* nodejs
 * path intellisense
+* nodejs
+* Auto Rename Tag
+* Editor Config
+* Eslint
+* Gitlens
+* React Frood Truck
+* vscode-styled-components
 
 ## Settings
 
